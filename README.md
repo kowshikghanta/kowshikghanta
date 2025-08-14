@@ -24,8 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Kowshik's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhantaKowshikKumar&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=GhantaKowshikKumar&theme=radical)](https://git.io/streak-stats)
+![Kowshik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kowshikghanta&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kowshikghanta&theme=radical)](https://git.io/streak-stats)
 
 ---
 
